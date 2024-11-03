@@ -1,55 +1,52 @@
 <?php
-   $page = 'Invoices Data';
-   define ('allow' , TRUE);
-   include_once ('public/header.php');
-?>
-<!--begin::Content-->
-<div class="content d-flex flex-column flex-column-fluid " id="kt_content">
-     <!--begin::Container-->
-     <div id="kt_content_container" class="container-xxl">
-          <!--begin::Row-->
-          <div class="row g-5 g-xl-8 mb-xl-5 mb-5">
-               <div class="card mb-5 mb-xl-8">
-                    <!--begin::Header-->
-                    <div class="card-header border-0 pt-2">
-                         <h3 class="card-title align-items-start flex-column">
-                              <span class="card-label fw-bold text-gray-800 fs-4">Invoices</span>
-                         </h3>
-                    </div>
-                    <!--end::Header-->
-                    <!--begin::Body-->
-                    <div class="card-body py-3">
-                         <!--begin::Table container-->
-                         <div class="table-responsive">
-                              <!--begin::Table-->
-                              <table class="table table-invoices table-row-bordered table-row-gray-100 align-middle gs-0 gy-3">
-                                   <!--begin::Table head-->
-                                   <thead>
-                                   <tr class="fw-bold text-muted">
-                                        <th class="min-w-150px">User</th>
-                                        <th class="min-w-100px">Price</th>
-                                        <th class="min-w-100px">Currency</th>
-                                        <th class="min-w-100px">Created Date</th>
-                                        <th class="min-w-100px">Expire Date</th>
-                                        <th class="min-w-100px">Status</th>
-                                        <th class="min-w-100px">Address</th>
-                                   </tr>
-                                   </thead>
-                                   <!--end::Table head-->
-                                   <!--begin::Table body-->
-                              </table>
-                              <!--end::Table-->
-                         </div>
-                         <!--end::Table container-->
-                    </div>
-                    <!--begin::Body-->
-               </div>
-          </div>
-          <!--end::row-->
-          <!--end::Container-->
-     </div>
-     <!--end::Content-->
-</div>
-<?php
-   include_once ('public/footer.php');
+   
+   define ('allow' , true);
+   define ('json' , true);
+   
+   include_once $_SERVER['DOCUMENT_ROOT'] . '/inc.php';
+   
+   $start = intval ($_POST['start'] ?? 0);
+   $length = intval ($_POST['length'] ?? 10);
+   $orderColumn = intval ($_POST['order'][0]['column'] ?? 0);
+   $orderDir = strtolower ($_POST['order'][0]['dir'] ?? '') === 'desc' ? 'DESC' : 'ASC';
+   
+   $invoiceDataAll = $Order -> OrderDataAll ();
+   $totalCount = count ($invoiceDataAll['Response']);
+
+// Apply sorting
+   usort ($invoiceDataAll['Response'] , function ($a , $b) use ($orderColumn , $orderDir) {
+      $aVal = $a[array_keys ($a)[$orderColumn]];
+      $bVal = $b[array_keys ($b)[$orderColumn]];
+      return $orderDir === 'DESC' ? $bVal <=> $aVal : $aVal <=> $bVal;
+   });
+
+// Apply pagination
+   $invoiceDataAll['Response'] = array_slice ($invoiceDataAll['Response'] , $start , $length);
+   
+   $results = array_map (function ($av) use ($Api , $Secure , $User) {
+      
+      $user = $User -> UserDataID ($av['userID'] , 1)['username'] ?? 'n/a';
+      
+      
+      return [
+            "order_id" => (int)$av['order_id'] ,
+            'userID' => $Secure -> SecureTxt ($user) ,
+            'local_price' => $Secure -> SecureTxt ($av['local_price']) ,
+            'currency' => $Secure -> SecureTxt ($av['currency']) ,
+            'invoice_expires' => date ('M d H:i:s' , $av['invoice_expires']) ,
+            'invoice_created' => date ('M d H:i:s' , $av['invoice_created']) ,
+            'invoice_status' => $Secure -> SecureTxt ($av['invoice_status']) ,
+            'address' => $Secure -> SecureTxt ($av['address']) ,
+      ];
+   } , $invoiceDataAll['Response']);
+   
+   $response = [
+         'draw' => intval ($_POST['draw'] ?? 1) ,
+         'recordsTotal' => $totalCount ,
+         'recordsFiltered' => $totalCount ,
+         'data' => $results ,
+   ];
+   
+   header ('Content-Type: application/json');
+   echo json_encode ($response);
 ?>
