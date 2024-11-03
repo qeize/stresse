@@ -1,0 +1,110 @@
+[21-Dec-2023 14:38:08 UTC] SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[21-Dec-2023 14:38:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=;dbn...', '', '', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:38:08 UTC] SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[21-Dec-2023 14:38:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=;dbn...', '', '', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:38:19 UTC] SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[21-Dec-2023 14:38:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=;dbn...', '', '', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:39:10 UTC] SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES)
+[21-Dec-2023 14:39:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=loca...', 'stresse', 'root', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:39:11 UTC] SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES)
+[21-Dec-2023 14:39:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=loca...', 'stresse', 'root', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:39:12 UTC] SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES)
+[21-Dec-2023 14:39:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=loca...', 'stresse', 'root', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:39:13 UTC] SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES)
+[21-Dec-2023 14:39:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=loca...', 'stresse', 'root', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:39:13 UTC] SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES)
+[21-Dec-2023 14:39:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=loca...', 'stresse', 'root', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:39:16 UTC] SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES)
+[21-Dec-2023 14:39:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=loca...', 'stresse', 'root', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
+[21-Dec-2023 14:39:17 UTC] SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES)
+[21-Dec-2023 14:39:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'stresse'@'localhost' (using password: YES) in C:\OSPanel\domains\localhost1\global\class\db.class.php:37
+Stack trace:
+#0 C:\OSPanel\domains\localhost1\global\class\db.class.php(37): PDO->__construct('mysql:host=loca...', 'stresse', 'root', Array)
+#1 C:\OSPanel\domains\localhost1\global\class\db.class.php(20): DataBase->connect()
+#2 C:\OSPanel\domains\localhost1\global\class\db.class.php(49): DataBase->__construct()
+#3 C:\OSPanel\domains\localhost1\inc.php(122): DataBase::getInstance()
+#4 C:\OSPanel\domains\localhost1\global\public\header.php(6): include_once('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\localhost1\home.php(4): include_once('C:\\OSPanel\\doma...')
+#6 {main}
+  thrown in C:\OSPanel\domains\localhost1\global\class\db.class.php on line 37
