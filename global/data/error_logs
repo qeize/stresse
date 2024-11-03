@@ -1,0 +1,31 @@
+[20-Apr-2023 00:47:42 UTC] PHP Warning:  Undefined array key "Response" in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:47:42 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\OSPanel\domains\localhost\global\data\attacks.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:47:48 UTC] PHP Warning:  Undefined array key "Response" in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:47:48 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\OSPanel\domains\localhost\global\data\attacks.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:48:15 UTC] PHP Warning:  Undefined array key "Response" in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:48:15 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\OSPanel\domains\localhost\global\data\attacks.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:49:41 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in C:\OSPanel\domains\localhost\global\data\attacks.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:49:53 UTC] PHP Warning:  Undefined array key "Response" in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:49:53 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\OSPanel\domains\localhost\global\data\attacks.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:55:26 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progress in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[20-Apr-2023 00:55:26 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[20-Apr-2023 00:55:30 UTC] PHP Warning:  Undefined array key "Response" in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
+[20-Apr-2023 00:55:30 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\OSPanel\domains\localhost\global\data\attacks.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\localhost\global\data\attacks.php on line 19
