@@ -1,0 +1,11 @@
+/* righteous */
+@font-face {
+    font-family: 'Righteous';
+    src: url('../fonts/righteous/righteous.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/righteous/righteous.eot?#iefix') format('embedded-opentype'), /* IE < 9 */ url('../fonts/righteous/righteous.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/righteous/righteous.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */ url('../fonts/righteous/righteous.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/righteous/righteous.svg#righteous') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Bloomsburg';
+    src: url('../fonts/bloomsburg/bloomsburg.regular.otf');
+}
