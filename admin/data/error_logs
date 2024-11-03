@@ -1,0 +1,269 @@
+[20-Apr-2023 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\OSPanel\domains\localhost\admin\data\methods.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\OSPanel\domains\localhost\admin\data\methods.php on line 13
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:54 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:56:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 19:56:59 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 19:58:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Order::OrderDataAll(), 0 passed in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 13 and exactly 1 expected in C:\OSPanel\domains\localhost\global\class\order.class.php:14
+Stack trace:
+#0 C:\OSPanel\domains\localhost\admin\data\invoices.php(13): Order->OrderDataAll()
+#1 {main}
+  thrown in C:\OSPanel\domains\localhost\global\class\order.class.php on line 14
+[20-Apr-2023 19:59:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Order::OrderDataAll(), 0 passed in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 13 and exactly 1 expected in C:\OSPanel\domains\localhost\global\class\order.class.php:14
+Stack trace:
+#0 C:\OSPanel\domains\localhost\admin\data\invoices.php(13): Order->OrderDataAll()
+#1 {main}
+  thrown in C:\OSPanel\domains\localhost\global\class\order.class.php on line 14
+[20-Apr-2023 20:00:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Order::OrderDataAll(), 0 passed in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 13 and exactly 1 expected in C:\OSPanel\domains\localhost\global\class\order.class.php:14
+Stack trace:
+#0 C:\OSPanel\domains\localhost\admin\data\invoices.php(13): Order->OrderDataAll()
+#1 {main}
+  thrown in C:\OSPanel\domains\localhost\global\class\order.class.php on line 14
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[20-Apr-2023 20:01:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\OSPanel\domains\localhost\admin\data\invoices.php on line 29
+[20-Apr-2023 20:01:05 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:03:18 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:03:18 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "userID" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 28
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:35 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:35 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "host" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 34
+[21-Apr-2023 07:04:46 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\localhost\global\class\secure.class.php on line 17
+[21-Apr-2023 07:04:46 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[21-Apr-2023 07:05:02 UTC] PHP Warning:  Undefined array key "date" in C:\OSPanel\domains\localhost\admin\data\actionlogs.php on line 35
+[06-May-2023 14:07:15 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[06-May-2023 14:07:15 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[06-May-2023 14:07:18 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[06-May-2023 14:07:18 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[06-May-2023 14:07:28 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[06-May-2023 14:07:28 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[06-May-2023 14:07:30 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[06-May-2023 14:07:30 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in C:\OSPanel\domains\localhost\global\class\db.class.php on line 72
+[30-Sep-2023 10:27:54 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, null given in C:\OSPanel\domains\localhost\admin\data\blacklist.php:21
+Stack trace:
+#0 C:\OSPanel\domains\localhost\admin\data\blacklist.php(21): usort()
+#1 {main}
+  thrown in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 21
+[30-Sep-2023 10:28:13 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, null given in C:\OSPanel\domains\localhost\admin\data\blacklist.php:21
+Stack trace:
+#0 C:\OSPanel\domains\localhost\admin\data\blacklist.php(21): usort()
+#1 {main}
+  thrown in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 21
+[30-Sep-2023 10:28:32 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, null given in C:\OSPanel\domains\localhost\admin\data\blacklist.php:21
+Stack trace:
+#0 C:\OSPanel\domains\localhost\admin\data\blacklist.php(21): usort()
+#1 {main}
+  thrown in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 21
+[30-Sep-2023 10:28:55 UTC] PHP Warning:  Undefined variable $apiDataAll in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 24
+[30-Sep-2023 10:28:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 24
+[30-Sep-2023 10:28:55 UTC] PHP Fatal error:  Uncaught TypeError: array_slice(): Argument #1 ($array) must be of type array, null given in C:\OSPanel\domains\localhost\admin\data\blacklist.php:24
+Stack trace:
+#0 C:\OSPanel\domains\localhost\admin\data\blacklist.php(24): array_slice()
+#1 {main}
+  thrown in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 24
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
+[30-Sep-2023 10:29:06 UTC] PHP Warning:  Undefined array key "id" in C:\OSPanel\domains\localhost\admin\data\blacklist.php on line 28
